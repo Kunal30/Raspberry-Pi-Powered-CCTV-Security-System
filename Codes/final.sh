@@ -1,0 +1,2 @@
+motion &
+sh launcher.sh
